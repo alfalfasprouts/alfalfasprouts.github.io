@@ -3,7 +3,7 @@ body { margin:0; padding:0; }
 
 #map {
     position: fixed;
-    width:40%;
+    width:50%;
     z-index: -1;
     margin-top:0px;
     border:15px solid lightgrey;
@@ -32,7 +32,7 @@ body { margin:0; padding:0; }
 }
 .intro {
     max-width:400px; 
-    margin-top:20%;
+    margin-top:5%;
 }
 
 
@@ -117,13 +117,13 @@ ul {
     list-style:none;
     margin:0px;
     margin-top:12px;
-    font-size:0.7em;
+    font-size:0.6em;
     font-weight:900;
     color:grey;
 }
 
 ul i {
-    font-size:1.1em;
+    font-size:1em;
 }
 
 li {
@@ -141,9 +141,9 @@ a::hover {
 .portrait {
     padding:10px;
     padding-bottom:10px;
-    padding-top:20px;
+    padding-top:16px;
     max-height: 100%;
-    max-width: 500px;
+    max-width: 350px;
     height: auto;
     width: 100%;
     display: block;
@@ -163,9 +163,10 @@ i {
   
 
 #features {
-    width: 60%;
+    width: 50%;
     min-width:500px;
-    margin-left: 40%;
+    min-height:1000px;
+    margin-left: 50%;
     font-family: sans-serif;
     overflow-y: scroll;
     background:white;
@@ -185,12 +186,12 @@ i {
 }
 
 section {
-    padding:  20px 40px;
+    padding:  0px 40px;
     padding-top:20px;
     line-height: 25px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #fff;
     opacity: 0.25;
-    font-size: 20px;
+    font-size: 1.1em;
     height:100vh;
     max-width:700px;
     margin:0 auto;
