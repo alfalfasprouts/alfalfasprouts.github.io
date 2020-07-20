@@ -12,34 +12,22 @@ body { margin:0; padding:0; }
 
 /*MARKER*/
 
-/*
-.marker {
-  background-image: url('mapbox-icon.png');
-  background-size: cover;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  cursor: pointer;
-}
-*/
 
 
 #intro {
     text-align:center;  
-    border:20px;
-    border-image: url(marker-01.png) 25% repeat;
 
 }
 .intro {
     max-width:400px; 
-    margin-top:5%;
+    margin-top:20%;
 }
 
 
 .explore {
     font-family:'Montserrat', sans-serif;
     font-weight:900;
-    font-size:0.7em;
+    font-size:0.9em;
     text-transform:uppercase;
     letter-spacing:1px;
     color:grey;
@@ -59,7 +47,7 @@ h3 {
 p, ul {
     font-family:'Montserrat', sans-serif;
     font-weight:200;
-    font-size:0.7em;
+    font-size:0.9em;
     margin-top:1em;
     margin:0;
     color:#2a2f36;
@@ -76,7 +64,7 @@ h3 {
 .country {
     font-family:'Montserrat', sans-serif;
     font-weight:500;
-    font-size:0.6em;
+    font-size:0.8em;
     width:100%;
     text-transform:uppercase;
     letter-spacing:1px;
@@ -86,7 +74,7 @@ h3 {
 .field {
     font-family:'Montserrat', sans-serif;
     font-weight:500;
-    font-size:0.6em;
+    font-size:0.8em;
     width:100%;
     text-transform:uppercase;
     letter-spacing:1px;
@@ -104,7 +92,7 @@ h3 {
 .next {
     font-family:'Montserrat', sans-serif;
     font-weight:900;
-    font-size:0.8em;
+    font-size:0.9em;
     text-transform:uppercase;
     letter-spacing:1px;
     color:grey;
@@ -117,7 +105,7 @@ ul {
     list-style:none;
     margin:0px;
     margin-top:12px;
-    font-size:0.6em;
+    font-size:0.8em;
     font-weight:900;
     color:grey;
 }
@@ -191,7 +179,7 @@ section {
     line-height: 25px;
     border-bottom: 1px solid #fff;
     opacity: 0.25;
-    font-size: 1.1em;
+    font-size: 1em;
     height:100vh;
     max-width:700px;
     margin:0 auto;
