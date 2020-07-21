@@ -15,7 +15,8 @@ body { margin:0; padding:0; }
 
 
 #intro {
-    text-align:center;  
+    text-align:center; 
+    height: 100vh;
 
 }
 .intro {
